@@ -28,7 +28,7 @@ The WeatherPy_vacation_map.png image
 The Vacation_Itinerary.ipynb file
 ```
 The WeatherPy_travel_map.png image
-
-The WeatherPy_travel_map_markers.png image
 ![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+The WeatherPy_travel_map_markers.png image
+
 

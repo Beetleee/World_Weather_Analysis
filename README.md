@@ -3,7 +3,10 @@
 
 ## Deliverable 1: Weather_Database folder with the following:
 ```
-Weather_Database.ipynb & WeatherPy_Database.csv
+Weather_Database.ipynb 
+```
+```
+WeatherPy_Database.csv
 ```
   ### The WeatherPy_Database.csv file
   ### The Vacation_Search folder with the following:

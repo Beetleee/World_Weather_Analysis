@@ -20,7 +20,7 @@ Vacation_Search.ipynb file
 WeatherPy_vacation.csv file
 ```
 The WeatherPy_vacation_map.png image
-![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## Deliverable 3: Create a Travel Itinerary Map / Vacation_Itinerary folder with the following:

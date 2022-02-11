@@ -2,7 +2,9 @@
 ### by Terra Lasho 
 
 ## Deliverable 1: Weather_Database folder with the following:
-  ### The '''Weather_Database.ipynb''' file
+```
+Weather_Database.ipynb & WeatherPy_Database.csv
+```
   ### The WeatherPy_Database.csv file
   ### The Vacation_Search folder with the following:
 
